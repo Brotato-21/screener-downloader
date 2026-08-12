@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+downloads/
+downloads_test/
+.claude/
